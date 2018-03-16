@@ -2,7 +2,6 @@
    File: iMap.java
    Author: Alex Brodsky
    Date: November 10, 2015
-   Purpose: CSCI 1110, Assignment 8 Interface
 
    Description: This interface specifies Map ADT that students need to
                 implement.

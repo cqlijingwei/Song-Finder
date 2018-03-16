@@ -2,7 +2,6 @@
  * File: MyMap.java
  * Author: Li Jingwei
  * Date: November 18, 2015
- * Purpose: CSCI 1110, Assignment 8
  * 
  * Description: This class implements the iMap interface.
  */
